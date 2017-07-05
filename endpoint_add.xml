@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns0:endpoint xmlns:ns0="identity.ers.ise.cisco.com" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:ns1="ers.ise.cisco.com" xmlns:ers="ers.ise.cisco.com" description="{1}">
+   <mac>{0}</mac>
+   <staticGroupAssignment>true</staticGroupAssignment>
+   <staticProfileAssignment>false</staticProfileAssignment>
+</ns0:endpoint>
